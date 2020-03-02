@@ -4,4 +4,4 @@ Screenshot
 ![Screenshot calculator](/Calculator/Screenshot_Calculator.jpg)
 
 APK
-[apk](/Calcuator/Calculator.apk)
+[apk](https://github.com/dh1n3sh/Android-Apps/tree/master/Calculator/Calculator.apk)
